@@ -1,0 +1,17 @@
+
+project: 3d_github_pages
+description: |
+  This is a string description of the project
+path:
+  - /Users/davidgilmore/Workspace/3d_github_pages
+setup:
+  - Ensure [some package] is installed.
+  - Install required packages:
+      language: bash
+      code: some code
+usage:
+  - example usage:
+      language: bash
+      code: example command
+notes:
+  - some useful note about the project
